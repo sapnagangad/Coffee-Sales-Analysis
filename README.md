@@ -25,7 +25,7 @@ It provides insights into **revenue trends, product performance, weekly patterns
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50" height="50"/>
   
   <!-- Data Cleaning Icon -->
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-cleaning-cleaning-flat-flat-juicy-fish-7.png" width="50" height="50"/>
+   <img src="https://img.icons8.com/ios-filled/50/broom.png" width="50" height="50"/>
   
   <!-- Data Visualization Icon -->
   <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="50" height="50"/>
