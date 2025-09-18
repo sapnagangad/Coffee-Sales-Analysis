@@ -1,5 +1,5 @@
 # ☕ Coffee Sales Analysis
-![Coffee Logo](https://img.freepik.com/premium-photo/starbucks-cup-with-coffee-beans-coffee-beans_1235831-195942.jpg)
+![Coffee Logo](https://static.vecteezy.com/system/resources/thumbnails/053/400/505/small/freshly-roasted-coffee-beans-in-a-wooden-bowl-a-wooden-bowl-filled-with-steaming-roasted-coffee-beans-sits-on-a-rustic-wooden-surface-surrounded-by-scattered-beans-photo.jpg)
 
 📊 This project is an **Excel-based dashboard** for analyzing **coffee sales data**.
 It provides insights into **revenue trends, product performance, weekly patterns, and store-level analysis**.
