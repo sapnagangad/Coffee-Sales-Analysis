@@ -1,5 +1,4 @@
-# Coffee-Sales-Analysis
-# ☕ Coffee Sales Analysis Dashboard
+# ☕ Coffee Sales Analysis
 
 📊 This project is an **Excel-based dashboard** for analyzing **coffee sales data**.
 It provides insights into **revenue trends, product performance, weekly patterns, and store-level analysis**.
@@ -53,7 +52,7 @@ Here’s a preview of the dashboard:
 
 ## 👩‍💻 Author
 
-**Aarya (Sapna Gangad)**
+**Sapna Gangad**
 
 * 🎯 Aspiring Data Analyst
 * 🌱 Exploring Excel, Python, and Data Visualization
