@@ -29,7 +29,7 @@ It provides insights into **revenue trends, product performance, weekly patterns
 
 Here’s a preview of the dashboard:
 
-![Coffee Dashboard](Coffee-Sales-Analysis/images/Screenshot (79).png)
+![Coffee Dashboard](https://github.com/sapnagangad/Coffee-Sales-Analysis/blob/main/images/Screenshot%20(79).png)
 
 
 ---
