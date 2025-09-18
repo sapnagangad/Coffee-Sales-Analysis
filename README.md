@@ -20,6 +20,8 @@ It provides insights into **revenue trends, product performance, weekly patterns
 
 ## 🛠 Tools & Skills Used
 
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40"/>
+
 * **Microsoft Excel** (Pivot Tables, Charts, Slicers, Conditional Formatting)
 * **Data Cleaning** (removing blanks, handling duplicates)
 * **Data Visualization** (interactive dashboard design)
