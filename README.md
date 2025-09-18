@@ -18,13 +18,23 @@ It provides insights into **revenue trends, product performance, weekly patterns
 
 ---
 
-## 🛠 Tools & Skills Used
+## 🛠 Tools & Skills Used 
 
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40"/>
+<p align="left">
+  <!-- Excel Icon -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50" height="50"/>
+  
+  <!-- Data Cleaning Icon -->
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-cleaning-cleaning-flat-flat-juicy-fish-7.png" width="50" height="50"/>
+  
+  <!-- Data Visualization Icon -->
+  <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="50" height="50"/>
+</p>
 
-* **Microsoft Excel** (Pivot Tables, Charts, Slicers, Conditional Formatting)
-* **Data Cleaning** (removing blanks, handling duplicates)
-* **Data Visualization** (interactive dashboard design)
+- **Microsoft Excel** (Pivot Tables, Charts, Slicers, Conditional Formatting)  
+- **Data Cleaning** (removing blanks, handling duplicates)  
+- **Data Visualization** (interactive dashboard design)  
+
 
 ---
 
