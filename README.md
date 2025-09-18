@@ -29,7 +29,7 @@ It provides insights into **revenue trends, product performance, weekly patterns
 
 Here’s a preview of the dashboard:
 
-![Coffee Dashboard]("C:\Users\Admin\Pictures\Screenshots\Screenshot (79).png")
+![Coffee Dashboard]("images/Screenshot (79).png")
 
 
 ---
