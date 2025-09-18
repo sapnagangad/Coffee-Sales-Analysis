@@ -55,6 +55,26 @@ Here’s a preview of the dashboard:
 
 ---
 
+## Daily Pattern:
+![Daily Pattern](https://github.com/sapnagangad/Coffee-Sales-Analysis/blob/main/images/Daily%20pattern.png)
+
+---
+
+## Weekly Pattern:
+![Weekly Pattern](https://github.com/sapnagangad/Coffee-Sales-Analysis/blob/main/images/Weekly%20Pattern.png)
+
+---
+
+## Revenue by Month:
+![Revenue by Month](https://github.com/sapnagangad/Coffee-Sales-Analysis/blob/main/images/Revenue%20by%20month.png)
+
+---
+
+## Top-Selling Items:
+![Top Selling Items](https://github.com/sapnagangad/Coffee-Sales-Analysis/blob/main/images/Top%2010%20Products.png)
+
+---
+
 ## 💡 Future Improvements
 
 * Automating data updates using **Power Query**.
